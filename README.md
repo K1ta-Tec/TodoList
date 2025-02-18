@@ -1,5 +1,6 @@
 # Use of React + Vite
-visit https://todotasksbykita.netlify.app/- ##website to test out the project.
+visit https://todotasksbykita.netlify.app/
+##website to test out the project.
 
 TodoList created with react.js. It effectively provides the ability to write  various tasks, edit existing tasks and delete stored tasks.
 The TodoTask provides and stores the data written despite refreshing the webpage.
